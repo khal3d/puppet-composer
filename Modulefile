@@ -1,0 +1,6 @@
+name        'Khal3d-composer'
+version     '0.1.0'
+summary     'Puppet module to install Composer, a dependency manager for PHP.'
+description 'Puppet module to install Composer, a dependency manager for PHP.'
+license     'MIT'
+author      'Khaled Attia'
